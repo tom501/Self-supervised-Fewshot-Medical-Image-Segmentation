@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+FELZENSZWALB_*/
+3D-FELZENSZWALB_*/
+SLIC_*/
+PMs_*/
+niis/
+test*/
